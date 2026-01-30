@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/around.png</file>
+        <file>icon/next.png</file>
+        <file>icon/order.png</file>
+        <file>icon/play.png</file>
+        <file>icon/pre.png</file>
+        <file>icon/random.png</file>
+        <file>icon/stop.png</file>
+        <file>icon/List.png</file>
+        <file>beijing/background1.png</file>
+        <file>beijing/background2.png</file>
+        <file>beijing/background3.png</file>
+        <file>beijing/background4.png</file>
+        <file>beijing/background5.png</file>
+        <file>beijing/background6.png</file>
+        <file>icon/add.png</file>
+        <file>icon/delete.png</file>
+        <file>icon/disk.png</file>
+    </qresource>
+</RCC>
